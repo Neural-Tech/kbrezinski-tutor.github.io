@@ -4,7 +4,7 @@ email: kenbrezinski@live.com
 url: https://github.com/jeromelachaud/freelancer-theme
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
-skills: "Software Installation - Graphic Artist - User Experience Designer"
+skills: "PC Repairs and Installations - Computer Backup - Cloud Storage and Password Manager"
 meta_author: Brezinski Kenneth
 
 # Google webmaster tools
@@ -32,10 +32,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+  copyright: Kenneth Brezinski
+  location:
+  social:
+  credits:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -44,8 +44,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Winnipeg, MB R2JXXX
+  - line: Winnipeg, Manitoba
+  - line: 
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
