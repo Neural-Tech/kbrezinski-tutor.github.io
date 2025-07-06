@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 3
-date: 2014-07-16
+date: 2025-01-03
 img: programming.png
 alt: image-alt
 project-date: April 2014

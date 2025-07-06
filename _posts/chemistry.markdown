@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 1
-date: 2014-07-16
+date: 2025-01-01
 img: chemistry.png
 alt: image-alt
 project-date: April 2014
