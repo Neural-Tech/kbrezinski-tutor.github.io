@@ -1,11 +1,17 @@
 # Site settings
-title: IT Support - Computer Installation
+title: High-End Professional Tutoring Services
 email: kenbrezinski@live.com
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Professional tutoring services in Vancouver, BC. Specializing in computer skills, IT support, and personalized learning for all ages. Achieve your academic and technical goals with expert guidance."
-keywords: "tutoring, computer skills, IT support, Vancouver, academic help, technology lessons, personalized learning, education, study support, online tutoring"
-skills: "PC Repairs and Installations - Computer Backup - Cloud Storage and Password Manager"
+url: https://kbrezinski.github.io/
+description: "Vancouver-based, high-end tutoring in Programming, AI, Chemistry, and Engineering. Gain expert-level knowledge and skills through customized one-on-one or small-group sessions designed for academic success and career advancement."
+keywords: "tutoring, professional tutoring, programming, artificial intelligence, machine learning, chemistry, engineering, STEM education, personalized learning, Vancouver, expert guidance"
+skills: >
+  • Programming & Software Development  
+  • Artificial Intelligence & Machine Learning  
+  • Advanced Chemistry Concepts & Lab Techniques  
+  • Engineering Design & Problem Solving  
+  • Data Analysis & Visualization  
 meta_author: Brezinski Kenneth
+
 
 # Google webmaster tools
 google_verify:
