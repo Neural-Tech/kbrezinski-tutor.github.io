@@ -2,8 +2,8 @@
 title: IT Support - Computer Installation
 email: kenbrezinski@live.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
+description: "Professional tutoring services in Vancouver, BC. Specializing in computer skills, IT support, and personalized learning for all ages. Achieve your academic and technical goals with expert guidance."
+keywords: "tutoring, computer skills, IT support, Vancouver, academic help, technology lessons, personalized learning, education, study support, online tutoring"
 skills: "PC Repairs and Installations - Computer Backup - Cloud Storage and Password Manager"
 meta_author: Brezinski Kenneth
 
@@ -25,10 +25,10 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 2E86C1 # Professional Blue
+  primary-rgb: "46,134,193"
+  secondary: F4D03F # Gold Accent
+  secondary-dark: 283747 # Deep Navy
 
 # Footer settings
 footer:
