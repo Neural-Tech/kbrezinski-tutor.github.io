@@ -185,6 +185,17 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
+section.success .container {
+    width: 100% !important;
+    max-width: 1400px;
+}
+
+@media (max-width: 1400px) {
+  section.success .container {
+    max-width: 98vw;
+  }
+}
+
 @media(max-width:767px) {
     section {
         padding: 75px 0;

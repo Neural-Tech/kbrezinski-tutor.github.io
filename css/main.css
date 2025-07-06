@@ -1,0 +1,12 @@
+/* ...existing code... */
+section.success .container {
+    width: 100% !important;
+    max-width: 1400px;
+}
+
+@media (max-width: 1400px) {
+  section.success .container {
+    max-width: 98vw;
+  }
+}
+/* ...existing code... */
